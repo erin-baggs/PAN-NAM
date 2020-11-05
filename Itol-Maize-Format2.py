@@ -1,6 +1,8 @@
 #!/usr/bin/env python
 # coding=utf-8
 
+#Usage: python Itol-Maize-Format2.py <list-of-tree-Maize-IDs> > <output_file>
+ 
 import sys
 import csv
 import re
