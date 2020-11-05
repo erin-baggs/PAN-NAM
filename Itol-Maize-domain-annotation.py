@@ -1,6 +1,7 @@
 #!/usr/bin/env python
 # coding=utf-8
-
+#Usage: python Itol-Maize-Domain-Annotation.py <NLR-ID.txt file from Plant_R_Genes > > <output_file>
+#NB. Any domains not in list below will not be annotated
 import sys
 import csv
 import re
